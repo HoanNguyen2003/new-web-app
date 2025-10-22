@@ -1,0 +1,40 @@
+﻿# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# Next.js
+.next/
+out/
+.next/cache
+
+# Nest / TypeScript build
+dist/
+build/
+coverage/
+
+# Env files
+.env
+.env.*.local
+.env.local
+
+# Editor / OS
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.DS_Store
+Thumbs.db
+
+# Misc
+logs/
+*.log
+.cache/
+.turbopack/
+parcel-cache/
+.sass-cache/
